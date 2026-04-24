@@ -33,4 +33,4 @@ It helps analyze sales, profit, and growth trends.
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard](dashboard image.png)
+![Dashboard](dashboard.png)
