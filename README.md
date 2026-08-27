@@ -30,6 +30,7 @@ This project focuses on analyzing retail store sales to track key business metri
 
 ## 👩‍💻 Author
 **Payal Chak** | Aspiring Data Analyst
+![Superstore Sales Dashboard](dashboard.png)
 
 
 
